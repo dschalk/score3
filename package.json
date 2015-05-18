@@ -1,0 +1,18 @@
+{
+  "name": "score3",
+  "version": "2.0.0",
+  "description": "<!-- START doctoc generated TOC please keep comment here to allow auto update --> <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->",
+  "main": "webpack.config.js",
+  "scripts": {
+    "dev": "webpack-dev-server --devtool eval --progress --colors --content-base build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dschalk/score3.git"
+  },
+  "author": "David Schalk",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/dschalk/score3/issues"
+  }
+}

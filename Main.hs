@@ -165,7 +165,7 @@ main = do
         Warp.settingsPort = 3013
       } $ WaiWS.websocketsOr WS.defaultConnectionOptions (application state) staticApp
 staticApp :: Network.Wai.Application
-staticApp = Static.staticApp $ Static.embeddedSettings $(embedDir "static")
+staticApp = Static.staticApp $ Static.embeddedSettings $(embedDir "app")
 application :: MVar ServerState -> WS.ServerApp
 application state pending = do
     conn <- WS.acceptRequest pending
