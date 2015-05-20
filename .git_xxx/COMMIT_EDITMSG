@@ -1,0 +1,141 @@
+fixed a bug.
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   .gitBackup/HEAD
+#	new file:   .gitBackup/config
+#	new file:   .gitBackup/description
+#	new file:   .gitBackup/hooks/applypatch-msg.sample
+#	new file:   .gitBackup/hooks/commit-msg.sample
+#	new file:   .gitBackup/hooks/post-update.sample
+#	new file:   .gitBackup/hooks/pre-applypatch.sample
+#	new file:   .gitBackup/hooks/pre-commit.sample
+#	new file:   .gitBackup/hooks/pre-push.sample
+#	new file:   .gitBackup/hooks/pre-rebase.sample
+#	new file:   .gitBackup/hooks/prepare-commit-msg.sample
+#	new file:   .gitBackup/hooks/update.sample
+#	new file:   .gitBackup/index
+#	new file:   .gitBackup/info/exclude
+#	new file:   .gitBackup/logs/HEAD
+#	new file:   .gitBackup/logs/refs/heads/master
+#	new file:   .gitBackup/logs/refs/remotes/origin/HEAD
+#	new file:   .gitBackup/objects/02/27800aa70de135f8ac16ffe3d1589d9bac6ed5
+#	new file:   .gitBackup/objects/03/2186c795fa251955f87d1f77251924deddd3a1
+#	new file:   .gitBackup/objects/09/e392a2966bca222277991830029b6299cee64c
+#	new file:   .gitBackup/objects/0a/bd586e02c308d771d3177b638cf96b327ac380
+#	new file:   .gitBackup/objects/0c/cc33f92efdfab32a343b45d8edeadd77251db6
+#	new file:   .gitBackup/objects/10/841f16bd082315472ca1cadd2f1ca206939ec3
+#	new file:   .gitBackup/objects/13/f50f4c3ffb8cd0001c1e11250d6e2f41cb84f8
+#	new file:   .gitBackup/objects/1a/1e13a74a2b6b1c8382258055ca0c0608214e32
+#	new file:   .gitBackup/objects/1b/1cb4d44c57c2d7a5122870fa6ac3e62ff7e94e
+#	new file:   .gitBackup/objects/1b/d036bd8df69fdc0aab61f179b3e25ad158f3d9
+#	new file:   .gitBackup/objects/1e/0e0d62207aeab3560bd08a571f7f6b8f7be64e
+#	new file:   .gitBackup/objects/1f/988938eb21db38ce3ff372bf188a5057227cd6
+#	new file:   .gitBackup/objects/1f/a955a449ff8cff526e57d2709b1b415acc2fc0
+#	new file:   .gitBackup/objects/23/2832a5aa0a7883c1e0acacfec59e2d1c2088d4
+#	new file:   .gitBackup/objects/24/f161f4dfc478cb447172e72370daa1f2fa33f5
+#	new file:   .gitBackup/objects/25/a7d20fc8264ef47ab17279d14f4c24ce6a8e53
+#	new file:   .gitBackup/objects/2b/40c529d81a619e77be1ff2011154b2d9e434d2
+#	new file:   .gitBackup/objects/2f/eb0194ffda524ae04efe297b482080cc6fa78f
+#	new file:   .gitBackup/objects/30/f67c6a7ea469f899186397a8407c9f07782fd7
+#	new file:   .gitBackup/objects/33/51d72cfd7a4381e82f9760812c829f4ee82b2f
+#	new file:   .gitBackup/objects/37/5362d899acf0c49bb44637837f23e862f399f1
+#	new file:   .gitBackup/objects/3e/7e987095eaa3f6ac6ff480ad9f36dc40a5f257
+#	new file:   .gitBackup/objects/3f/deb4d4fc46529235f54d88e6098dabfb5ffe1e
+#	new file:   .gitBackup/objects/40/30485b8b16ae0e811b0f8324b97d7e56237a8f
+#	new file:   .gitBackup/objects/41/48a9171e28b299b543b251737a9244e4236ad8
+#	new file:   .gitBackup/objects/41/85f972f582f949e023162978c0148e84158572
+#	new file:   .gitBackup/objects/44/b239f479dd088f70545f487341c260ee5f2a9c
+#	new file:   .gitBackup/objects/48/b47b2444bc0b7ec58f9e3153d8a1b6868b8284
+#	new file:   .gitBackup/objects/4a/37ae9bed4623059844d537ef6633a455d1e78d
+#	new file:   .gitBackup/objects/4b/ed5e5c1ef76ae610b2f311383ee5f53ae4ee5a
+#	new file:   .gitBackup/objects/4c/ac675ba451a671a08acc1b12029ac968b55789
+#	new file:   .gitBackup/objects/4d/1d7fe583f490030d4263a365ee1d7bf6763b07
+#	new file:   .gitBackup/objects/4d/6517defc4622fa30634525d954b2f9af162c5f
+#	new file:   .gitBackup/objects/4f/0927293cf3ec5641a72c77028ccea9cbd13f00
+#	new file:   .gitBackup/objects/4f/26e61aa6490e9ad5998c8e381f8ebb3917287c
+#	new file:   .gitBackup/objects/4f/624bb2b193750f1a5b36c8c307168c6681a861
+#	new file:   .gitBackup/objects/4f/ac2b5255e14cc4d917862681f2d51d33ef58b6
+#	new file:   .gitBackup/objects/50/53934586c36a2384e47dcc6c8edd019f6cd0a1
+#	new file:   .gitBackup/objects/51/564784c92602707d1bf25194f0e290ee120955
+#	new file:   .gitBackup/objects/52/1dd0834e9c7dc3c7d62b8ebc719e2f4b16032b
+#	new file:   .gitBackup/objects/55/5efb463bba3720f7b28cb4033ab8bf9ced3f0b
+#	new file:   .gitBackup/objects/55/d8e67aea66bc94238f85de2fd16242305f52c8
+#	new file:   .gitBackup/objects/58/30d76bb4d76f8e61cffdab7a09d0cd2a7734b9
+#	new file:   .gitBackup/objects/58/6d8b6211ba878f3196ae7daff15d4c8bf81036
+#	new file:   .gitBackup/objects/58/75d3b4930e5d783ec9896eb8faa65a65ac4588
+#	new file:   .gitBackup/objects/5a/373ce48bee5f439b80a5ce016fa2b79f12dbfe
+#	new file:   .gitBackup/objects/69/75cfdb536ebf8df57e4d1e868d6a7a49d1117b
+#	new file:   .gitBackup/objects/6a/5e4d82cf1809ad14125411e38c47e851e00a5f
+#	new file:   .gitBackup/objects/6b/132e80200e40038390bfb307721f2771989109
+#	new file:   .gitBackup/objects/6d/7fc40fa157e80e97efbffdd8b9f234c3199460
+#	new file:   .gitBackup/objects/70/7321f39ada5143515aa540f2de637c50dd03a0
+#	new file:   .gitBackup/objects/72/7be03f495263c6277a1762305e4a538cbdccd9
+#	new file:   .gitBackup/objects/73/0306884a03c75c523b207ee7a75b72a27e85b7
+#	new file:   .gitBackup/objects/77/ae13a4c75a1f851c8aec909995ba007d9443fb
+#	new file:   .gitBackup/objects/79/d631ff4639efcbf886547a40ec02143244e55c
+#	new file:   .gitBackup/objects/7a/05eb481e888668ec8d13e4c988b98f27383be2
+#	new file:   .gitBackup/objects/7d/a1721ceaadd943fd2160701d94d1bc8b6ea855
+#	new file:   .gitBackup/objects/7f/149360af04400005f09498907faf59500d0c60
+#	new file:   .gitBackup/objects/88/80cc7c9652ee1492dc0cda28a60411ffd5a7fe
+#	new file:   .gitBackup/objects/8c/7f18b24f48611ed905f5af618afd17d68a9954
+#	new file:   .gitBackup/objects/8d/efa30538655ab42ef951e52acc83378c8ec23c
+#	new file:   .gitBackup/objects/92/fb941e96b213f2f29be1ffdbadb4899f7a2e4e
+#	new file:   .gitBackup/objects/93/bbed576d4cdfee3608f08e72bf636f95f86d6c
+#	new file:   .gitBackup/objects/96/f3264faa786dba601fb7b58ab5c635524c1c98
+#	new file:   .gitBackup/objects/9a/ba8c741da3d3014da5b3019132d3ef2a569139
+#	new file:   .gitBackup/objects/9a/e7798db740cada14259376876269bba1b4af7c
+#	new file:   .gitBackup/objects/a5/b4de3b3676aa4edeac4119b64f2b1652d467e1
+#	new file:   .gitBackup/objects/a7/96afbce81ad6e473cb2f5e42da46ef717b6086
+#	new file:   .gitBackup/objects/ae/da165c0e33915668b971a26ca974039e276aa8
+#	new file:   .gitBackup/objects/b3/c719c1eecd18801892ac67bc8cad16768267ee
+#	new file:   .gitBackup/objects/b6/333e0cf30520bb63aa7a13f2d49f58889b1861
+#	new file:   .gitBackup/objects/b8/a706c163f03709b9f9c17337664e4f0f8dc28d
+#	new file:   .gitBackup/objects/bb/22520bbb2a0f465c780e096552d6d8df8e51bd
+#	new file:   .gitBackup/objects/be/04247c0b30325a7cd77bad869ace143398dba7
+#	new file:   .gitBackup/objects/c1/8c4821c20f0044f5d72d9825724884ffbbdbde
+#	new file:   .gitBackup/objects/c1/cb1170c8b3795835b8831ab81fa9ae63b606b1
+#	new file:   .gitBackup/objects/c3/5cf0b727d9d220ed133e7c8c950bded3ee1a85
+#	new file:   .gitBackup/objects/c5/c648255c1574dcc95c506b82c25044f0972dfd
+#	new file:   .gitBackup/objects/ca/dbac262278ab9b59cb0c8447fc6dea52d2d538
+#	new file:   .gitBackup/objects/cf/8891a82744ca6c63264fd21c221a8f5dddfb1e
+#	new file:   .gitBackup/objects/d6/4dd3b4951bfef2d87ac38afc8f910f779e36fe
+#	new file:   .gitBackup/objects/d7/ae52ee534ff3943c87358fe284d12bdd0dcc26
+#	new file:   .gitBackup/objects/dd/56135a5bdc7e191202ca679c53d1737c5c0177
+#	new file:   .gitBackup/objects/de/333ccd365772b19f4b5f1244645919fdf3afcd
+#	new file:   .gitBackup/objects/e0/61620261245cf82b1e11b1cf369f8befa03d15
+#	new file:   .gitBackup/objects/e5/06fcbc6e5fd92c90603a708924220e80a86c82
+#	new file:   .gitBackup/objects/e5/ea3221fd134882daad37caa54296125beee8d3
+#	new file:   .gitBackup/objects/e6/a051d0d1d32752ae08d9cf30fe5952da22a9b0
+#	new file:   .gitBackup/objects/e9/3ab9f175851dc6c313c0e437b5a5e3d60ced1f
+#	new file:   .gitBackup/objects/e9/8b74556736a61c36587a1d7773542d4a3831e4
+#	new file:   .gitBackup/objects/ea/2ef2761c3fcf578696375e7ba319ee596d6f3e
+#	new file:   .gitBackup/objects/ec/64ab95f1a12fbb569d7a4349423522c9238188
+#	new file:   .gitBackup/objects/ef/fd9c0b7987b995d8e8bf1d13fc1b49961f6add
+#	new file:   .gitBackup/objects/f1/6a777b89fbad1151608b5c2828ec1749076774
+#	new file:   .gitBackup/objects/f1/7392bd1115460815eb0358113f049522858c0b
+#	new file:   .gitBackup/objects/f5/b6f2d3c687676462ac61178fd96efe407948ea
+#	new file:   .gitBackup/objects/f5/db970efc895f2ff278a80b231aa1c1239cc3d7
+#	new file:   .gitBackup/objects/f7/594aee51b207f16b93b7a7b9ef8a218ce9e7e1
+#	new file:   .gitBackup/objects/fd/4314bc26c1bd0c99734bca8868261a91aaf11a
+#	new file:   .gitBackup/packed-refs
+#	new file:   .gitBackup/refs/heads/master
+#	new file:   .gitBackup/refs/remotes/origin/HEAD
+#	modified:   Fm.hs
+#	modified:   IMPOSSIBLES.md
+#	modified:   LICENSE
+#	modified:   Main.hs
+#	modified:   README.md
+#	modified:   allCombinations.hs
+#	modified:   analysis_A.hs
+#	modified:   analysis_B.hs
+#	modified:   impossibles
+#	modified:   impossibles.hs
+#	modified:   impossibles2.hs
+#	modified:   score2.cabal
+#	modified:   server
+#	modified:   warp
+#

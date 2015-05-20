@@ -1,0 +1,17 @@
+0000000000000000000000000000000000000000 2c3ac3d038cd9b129a1661ab7db7532ff87a5c99 dschalk <schalkbox@gmail.com> 1428492901 -0400	clone: from https://github.com/dschalk/score2
+2c3ac3d038cd9b129a1661ab7db7532ff87a5c99 4118f861136288d744dd82d7ef6dfe78a673366e dschalk <schalkbox@gmail.com> 1428681685 -0400	commit: Dumbed it down. Reinstated global variables.
+4118f861136288d744dd82d7ef6dfe78a673366e 3eeb520909b981cf8cf5d628e4f23bf30b908936 dschalk <schalkbox@gmail.com> 1428716959 -0400	commit: Improved group functionality.
+3eeb520909b981cf8cf5d628e4f23bf30b908936 a34860931e3cd25096a17a82e8d2a780a9461996 dschalk <schalkbox@gmail.com> 1428802104 -0400	commit: Added chat functionality.
+a34860931e3cd25096a17a82e8d2a780a9461996 d8ebd08bce4c85e1ee5b81d26ee93a482a3e809b dschalk <schalkbox@gmail.com> 1428820970 -0400	commit: Added some features.
+d8ebd08bce4c85e1ee5b81d26ee93a482a3e809b ece7b1529529036401034f1ae217afeb5b49a379 dschalk <schalkbox@gmail.com> 1428893420 -0400	commit: Perfected group list functionality.
+ece7b1529529036401034f1ae217afeb5b49a379 189b38452797b69d8266f9afa3c513aa372e7ed9 dschalk <schalkbox@gmail.com> 1428921843 -0400	commit: Bug fixes.
+189b38452797b69d8266f9afa3c513aa372e7ed9 2ede0c275a797b72672700959e7bd1823bd1e92d dschalk <schalkbox@gmail.com> 1428929264 -0400	commit: Improved functionality of groups display.
+2ede0c275a797b72672700959e7bd1823bd1e92d ca9b0a7fe0e9bdf23204834b2b05cb4c3ebba0c8 dschalk <schalkbox@gmail.com> 1428969574 -0400	commit: Streamlined group display code.
+ca9b0a7fe0e9bdf23204834b2b05cb4c3ebba0c8 5f5ec2f1934d1b85b5158dc016bd09b9449e1a9a dschalk <schalkbox@gmail.com> 1428981961 -0400	commit: Revised README.me
+5f5ec2f1934d1b85b5158dc016bd09b9449e1a9a 097f22fce95c73397870b18a2e7ea378dc2f857f dschalk <schalkbox@gmail.com> 1429052746 -0400	commit: Revised README.md and README.html
+097f22fce95c73397870b18a2e7ea378dc2f857f 158ab861213b0ee65c6fdd5f4aa4e93294aef1e9 dschalk <schalkbox@gmail.com> 1429318741 -0400	commit: Revised the documentation.
+158ab861213b0ee65c6fdd5f4aa4e93294aef1e9 1ccfe1bf381a259c95721475f52bf362360fd429 dschalk <schalkbox@gmail.com> 1429391076 -0400	commit: Revised documentation.
+1ccfe1bf381a259c95721475f52bf362360fd429 d1d3573a7ee3bcf3f5ffcacb7dcb08ad5ae334cd dschalk <schalkbox@gmail.com> 1429393429 -0400	commit: Edited documentation.
+d1d3573a7ee3bcf3f5ffcacb7dcb08ad5ae334cd 285ae578f8237490235700c3cd04d3836c2f8c6d dschalk <schalkbox@gmail.com> 1430152226 -0400	commit: Minor refinements.
+285ae578f8237490235700c3cd04d3836c2f8c6d 562957008e72b8eb7179fdf31a08c68c0ab3e0d5 dschalk <schalkbox@gmail.com> 1430154910 -0400	commit: Deleted a sentence.
+562957008e72b8eb7179fdf31a08c68c0ab3e0d5 dfe270dae02db04e811a6fbb17a8bd60e47f321a dschalk <schalkbox@gmail.com> 1432162650 -0400	commit: fixed a bug.
